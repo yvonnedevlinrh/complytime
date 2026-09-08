@@ -58,7 +58,7 @@ When generic framework-to-framework mappings are published to a commons, the com
 
 ## Open questions
 
-Cross-framework mapping raises questions about confidence calibration, reasoning provenance, divergent authority handling, version coexistence, and mapping fidelity that require architectural decisions. See [ADR-0011](../ADRs/0011-cross-framework-mapping.md) for the decisions that have crystallized from this exploration.
+Cross-framework mapping raises questions about confidence calibration, reasoning provenance, divergent authority handling, version coexistence, and mapping fidelity that require architectural decisions. No decisions have crystallized from this exploration yet.
 
 ## Cross-references
 
