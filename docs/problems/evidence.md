@@ -2,7 +2,7 @@
 
 Compliance evidence is fragmented across automated and manual sources with no unified model for collection, normalization, freshness, or trust. Every assessment tool produces its own artifact format. Manual evidence (attestations, policy review records, physical inspection reports) lives outside automated systems entirely. No standard way exists to trace any piece of evidence back to the requirement it satisfies.
 
-This doc explores *why* evidence unification is hard and what a solution needs to address. It does not propose what ComplyTime should build. See [evaluator-coupling.md](evaluator-coupling.md) for how collection and evaluation conflation affects evidence: evaluators currently discard raw system state after assessment, making evidence reproduction dependent on re-scanning. See [requirement-fidelity.md](requirement-fidelity.md) for how fidelity loss weakens the link between evidence and requirements. See [system-modeling-and-drift.md](system-modeling-and-drift.md) for how drift measurement against requirements interacts with evidence freshness.
+This doc explores *why* evidence unification is hard and what a solution needs to address. It does not propose what ComplyTime should build. See [evaluator-coupling.md](evaluator-coupling.md) for how collection and evaluation conflation affects evidence: evaluators currently discard raw system state after assessment, making evidence reproduction dependent on re-scanning. See [requirement-fidelity.md](requirement-fidelity.md) for how fidelity loss weakens the link between evidence and requirements.
 
 ## Why this is hard
 

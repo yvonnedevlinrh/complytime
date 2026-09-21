@@ -89,7 +89,7 @@ Consumes stored evidence to support audit activities — analysis, artifact draf
 | Runtime Client | Operational | [complyctl](https://github.com/complytime/complyctl) |
 | Evaluators | Operational | [complytime-providers](https://github.com/complytime/complytime-providers) (OpenSCAP, AMPEL); OPA in development |
 | Cross-Framework Mapping | Experimental | [crosscodex](https://github.com/complytime-labs/crosscodex) |
-| Evidence Platform | Experimental | [complytime-core](https://github.com/complytime/complytime-core) |
+| Evidence Platform | Experimental | [complytime-core](https://github.com/complytime-labs/complytime-core) |
 | Audit Preparation | Experimental | [complytime-studio](https://github.com/complytime-labs/complytime-studio) |
 
 Supporting repositories: [complypack](https://github.com/complytime/complypack) (pack authoring), [complytime-policies](https://github.com/complytime/complytime-policies) (published bundles), [org-infra](https://github.com/complytime/org-infra) (CI/CD), [community](https://github.com/complytime/community) (governance).

@@ -36,10 +36,6 @@ Pick a problem area that interests you. Read the existing document. Add your per
 
 When in doubt, start with an issue.
 
-## Browse online
-
-This documentation is browsable at [complytime.github.io/complytime](https://complytime.github.io/complytime) (powered by docsify).
-
 ## Acknowledgments
 
 This repo's structure — living design document, problem-driven exploration, ADRs — is adopted from [fullsend](https://github.com/fullsend-ai/fullsend).
